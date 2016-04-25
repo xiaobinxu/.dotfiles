@@ -13,7 +13,8 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 " various plugins
-"Plugin 'Valloric/YouCompleteMe'   " code completion engine
+Plugin 'Valloric/YouCompleteMe'   " code completion engine
+Plugin 'rdnetto/YCM-Generator'
 "Plugin 'Rip-Rip/clang_complete'
 
 " All plugins must be added before the following line
