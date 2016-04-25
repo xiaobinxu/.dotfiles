@@ -1,0 +1,7 @@
+[user]
+	name = Xiaobin Xu
+	email = xibixu@outlook.com
+[core]
+	editor = vim
+[color]
+	ui = auto
